@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gXZzO8FV2Bq3khZnayx81oUomBUOFExe7VRsk/SbON+oPnR3deLJwrF6/YY+rzo8m0/YmbNnK4Yhvk0j+yTRvw==",
+  "success": true,
+  "projectFilePath": "C:\\TDSoft63\\TiendaDSoft63.App\\TiendaDSoft63.App.Dominio\\TiendaDSoft63.App.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nelson jimenez\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\nelson jimenez\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

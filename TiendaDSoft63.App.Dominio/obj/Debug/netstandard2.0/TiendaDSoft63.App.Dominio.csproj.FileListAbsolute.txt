@@ -1,0 +1,9 @@
+C:\TDSoft63\TiendaDSoft63.App\TiendaDSoft63.App.Dominio\bin\Debug\netstandard2.0\TiendaDSoft63.App.Dominio.deps.json
+C:\TDSoft63\TiendaDSoft63.App\TiendaDSoft63.App.Dominio\bin\Debug\netstandard2.0\TiendaDSoft63.App.Dominio.dll
+C:\TDSoft63\TiendaDSoft63.App\TiendaDSoft63.App.Dominio\bin\Debug\netstandard2.0\TiendaDSoft63.App.Dominio.pdb
+C:\TDSoft63\TiendaDSoft63.App\TiendaDSoft63.App.Dominio\obj\Debug\netstandard2.0\TiendaDSoft63.App.Dominio.csprojAssemblyReference.cache
+C:\TDSoft63\TiendaDSoft63.App\TiendaDSoft63.App.Dominio\obj\Debug\netstandard2.0\TiendaDSoft63.App.Dominio.AssemblyInfoInputs.cache
+C:\TDSoft63\TiendaDSoft63.App\TiendaDSoft63.App.Dominio\obj\Debug\netstandard2.0\TiendaDSoft63.App.Dominio.AssemblyInfo.cs
+C:\TDSoft63\TiendaDSoft63.App\TiendaDSoft63.App.Dominio\obj\Debug\netstandard2.0\TiendaDSoft63.App.Dominio.csproj.CoreCompileInputs.cache
+C:\TDSoft63\TiendaDSoft63.App\TiendaDSoft63.App.Dominio\obj\Debug\netstandard2.0\TiendaDSoft63.App.Dominio.dll
+C:\TDSoft63\TiendaDSoft63.App\TiendaDSoft63.App.Dominio\obj\Debug\netstandard2.0\TiendaDSoft63.App.Dominio.pdb
