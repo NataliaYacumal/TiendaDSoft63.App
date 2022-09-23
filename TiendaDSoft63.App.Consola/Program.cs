@@ -17,9 +17,11 @@ namespace TiendaDSoft63.App.Consola
         {
             Console.WriteLine("Hola amigos, vamos a empezar a trabajar con las tablas!");
             //AddAdministrador();
-            BuscarAdmistrador(1);
+            //BuscarAdmistrador(1);
             //AddCliente();
            // BuscarCliente(2);
+           //EliminarAdministrador(1);
+           ListarAdministres();
         }
         
         private static void AddAdministrador()
@@ -130,7 +132,24 @@ namespace TiendaDSoft63.App.Consola
             Console.WriteLine("Dirección: " +tienda.Direccion + ". Tipo: " + tienda.Email);
         }
 
-        private static void ListarAdministradoresFiltro()
+        private static void ListarAdministres()
+        {
+            int i=1;
+            var administradores = _repoAdministrador.GetAllAdministradores();
+            foreach (Administrador a in administradores)
+            {
+                Console.WriteLine("Nombre Administrador "+i+": "+a.Nombre);
+                i+=1;
+            }
+        }
+
+        /*private static void EliminarAdministrador(int idAdministrador)
+        {
+            var administrador =_repoAdministrador.DeleteAdministrador(idAdministrador);
+            Console.WriteLine("Administrador Borrado");
+        }*/
+
+        /*private static void ListarAdministradoresFiltro()
         {
             var AdminA = _repoAdministrador.GetAdministradorPorFiltro("nar");
             foreach (Administrador a in AdminA)
@@ -148,7 +167,8 @@ namespace TiendaDSoft63.App.Consola
                 Console.WriteLine(c.Nombre + " " + c.Email);
             }
 
-        }
+        }*/
+
 
     }
 }

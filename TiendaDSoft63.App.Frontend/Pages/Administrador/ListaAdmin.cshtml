@@ -1,0 +1,23 @@
+﻿@page
+@model TiendaDSoft63.App.Frontend.Pages.ListaAdminModel
+@{
+}
+<h1>Listado de Administradores</h1>
+<table class="table">
+    @foreach (var administrador in Model.ListaAdmin)
+    {
+        <tr>
+            <td>@administrador.Id</td>
+            <td>@administrador.Nombre</td>
+            <td>@administrador.Email</td>
+            <td>@administrador.Documentos</td>
+            <td>@administrador.Generos</td>
+            <td>@administrador.Telefono</td>
+            <td>@administrador.Usuario</td>
+            <td>@administrador.contrasenna</td>
+            <td>@administrador.FechaVinculación</td>
+
+        </tr>
+        
+    }
+</table>
