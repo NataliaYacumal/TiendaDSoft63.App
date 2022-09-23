@@ -17,13 +17,13 @@ namespace TiendaDSoft63.App.Frontend.Pages
 
         public ListaAdminModel()
         {
-            this.repositorioAdministrador = new RepositorioAdministrador(new TiendaDSoft63.App.Persistencia.AppContext());
+            this.repositorioAdministrador = new RepositorioAdministrador(new TiendaDSoft63.App.Persistencia.AppContext);
         }
 
         
         public void OnGet()
         {
-            listaAdministradores = _repoAdministrador.GetAllAdministradores();
+            listaAdministradores = repositorioAdministrador.GetAllAdministradores();
         }
     }
 }
