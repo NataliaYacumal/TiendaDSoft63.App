@@ -1,4 +1,3 @@
-C:\TDSoft63\TiendaDSoft63.App\TiendaDSoft63.App.Persistencia\obj\Debug\netstandard2.1\TiendaDSoft63.App.Persistencia.csprojAssemblyReference.cache
 C:\TDSoft63\TiendaDSoft63.App\TiendaDSoft63.App.Persistencia\obj\Debug\netstandard2.1\TiendaDSoft63.App.Persistencia.AssemblyInfoInputs.cache
 C:\TDSoft63\TiendaDSoft63.App\TiendaDSoft63.App.Persistencia\obj\Debug\netstandard2.1\TiendaDSoft63.App.Persistencia.AssemblyInfo.cs
 C:\TDSoft63\TiendaDSoft63.App\TiendaDSoft63.App.Persistencia\obj\Debug\netstandard2.1\TiendaDSoft63.App.Persistencia.csproj.CoreCompileInputs.cache
@@ -10,3 +9,5 @@ C:\TDSoft63\TiendaDSoft63.App\TiendaDSoft63.App.Persistencia\bin\Debug\netstanda
 C:\TDSoft63\TiendaDSoft63.App\TiendaDSoft63.App.Persistencia\obj\Debug\netstandard2.1\TiendaDSoft63.App.Persistencia.csproj.CopyComplete
 C:\TDSoft63\TiendaDSoft63.App\TiendaDSoft63.App.Persistencia\obj\Debug\netstandard2.1\TiendaDSoft63.App.Persistencia.dll
 C:\TDSoft63\TiendaDSoft63.App\TiendaDSoft63.App.Persistencia\obj\Debug\netstandard2.1\TiendaDSoft63.App.Persistencia.pdb
+C:\TDSoft63\TiendaDSoft63.App\TiendaDSoft63.App.Persistencia\obj\Debug\netstandard2.1\TiendaDSoft63.App.Persistencia.csproj.AssemblyReference.cache
+C:\TDSoft63\TiendaDSoft63.App\TiendaDSoft63.App.Persistencia\obj\Debug\netstandard2.1\TiendaDSoft63.App.Persistencia.GeneratedMSBuildEditorConfig.editorconfig

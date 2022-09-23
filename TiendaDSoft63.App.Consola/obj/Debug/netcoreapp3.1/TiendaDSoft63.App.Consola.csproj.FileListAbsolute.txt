@@ -58,7 +58,6 @@ C:\TDSoft63\TiendaDSoft63.App\TiendaDSoft63.App.Consola\bin\Debug\netcoreapp3.1\
 C:\TDSoft63\TiendaDSoft63.App\TiendaDSoft63.App.Consola\bin\Debug\netcoreapp3.1\TiendaDSoft63.App.Persistencia.dll
 C:\TDSoft63\TiendaDSoft63.App\TiendaDSoft63.App.Consola\bin\Debug\netcoreapp3.1\TiendaDSoft63.App.Dominio.pdb
 C:\TDSoft63\TiendaDSoft63.App\TiendaDSoft63.App.Consola\bin\Debug\netcoreapp3.1\TiendaDSoft63.App.Persistencia.pdb
-C:\TDSoft63\TiendaDSoft63.App\TiendaDSoft63.App.Consola\obj\Debug\netcoreapp3.1\TiendaDSoft63.App.Consola.csprojAssemblyReference.cache
 C:\TDSoft63\TiendaDSoft63.App\TiendaDSoft63.App.Consola\obj\Debug\netcoreapp3.1\TiendaDSoft63.App.Consola.AssemblyInfoInputs.cache
 C:\TDSoft63\TiendaDSoft63.App\TiendaDSoft63.App.Consola\obj\Debug\netcoreapp3.1\TiendaDSoft63.App.Consola.AssemblyInfo.cs
 C:\TDSoft63\TiendaDSoft63.App\TiendaDSoft63.App.Consola\obj\Debug\netcoreapp3.1\TiendaDSoft63.App.Consola.csproj.CoreCompileInputs.cache
@@ -66,3 +65,5 @@ C:\TDSoft63\TiendaDSoft63.App\TiendaDSoft63.App.Consola\obj\Debug\netcoreapp3.1\
 C:\TDSoft63\TiendaDSoft63.App\TiendaDSoft63.App.Consola\obj\Debug\netcoreapp3.1\TiendaDSoft63.App.Consola.dll
 C:\TDSoft63\TiendaDSoft63.App\TiendaDSoft63.App.Consola\obj\Debug\netcoreapp3.1\TiendaDSoft63.App.Consola.pdb
 C:\TDSoft63\TiendaDSoft63.App\TiendaDSoft63.App.Consola\obj\Debug\netcoreapp3.1\TiendaDSoft63.App.Consola.genruntimeconfig.cache
+C:\TDSoft63\TiendaDSoft63.App\TiendaDSoft63.App.Consola\obj\Debug\netcoreapp3.1\TiendaDSoft63.App.Consola.csproj.AssemblyReference.cache
+C:\TDSoft63\TiendaDSoft63.App\TiendaDSoft63.App.Consola\obj\Debug\netcoreapp3.1\TiendaDSoft63.App.Consola.GeneratedMSBuildEditorConfig.editorconfig
