@@ -17,7 +17,7 @@ namespace TiendaDSoft63.App.Frontend.Pages
 
         public ListaAdminModel()
         {
-            this.repositorioAdministrador = new RepositorioAdministrador(new TiendaDSoft63.App.Persistencia.AppContext);
+            this.repositorioAdministrador = new RepositorioAdministrador(new TiendaDSoft63.App.Persistencia.AppContext());
         }
 
         
