@@ -1,6 +1,5 @@
 using System;
 using System.Collections.Generic;
-using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
@@ -10,20 +9,19 @@ using TiendaDSoft63.App.Persistencia;
 
 namespace TiendaDSoft63.App.Frontend.Pages
 {
-    public class ListaAdminModel : PageModel
+    public class ListaAdministradoresModel : PageModel
     {
-        private readonly IRepositorioAdministrador  repositorioAdministrador;
+        private static IRepositorioAdministrador _repoAdministrador = new RepositorioAdministrador(new Persistencia.AppContext());
         public IEnumerable<Administrador> listaAdministradores {get; set;}
 
-        public ListaAdminModel()
+        public ListaAdministradoresModel(IEnumerable<Administrador> listaAdministradores)
         {
-            this.repositorioAdministrador = new RepositorioAdministrador(new TiendaDSoft63.App.Persistencia.AppContext());
+            this.listaAdministradores = listaAdministradores;
         }
 
-        
         public void OnGet()
         {
-            listaAdministradores = repositorioAdministrador.GetAllAdministradores();
+            listaAdministradores = _repoAdministrador.GetAllAdministradores();
         }
     }
 }

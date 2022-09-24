@@ -15,8 +15,8 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\TDSoft63\TiendaDSoft63.App\TiendaDSoft63.App.Frontend
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/TDSoft63/TiendaDSoft63.App/TiendaDSoft63.App.Frontend/Pages/Administrador/ListaAdmin.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5pc3RyYWRvclxMaXN0YUFkbWluLmNzaHRtbA==
+[C:/TDSoft63/TiendaDSoft63.App/TiendaDSoft63.App.Frontend/Pages/Administradores/ListaAdministradores.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5pc3RyYWRvcmVzXExpc3RhQWRtaW5pc3RyYWRvcmVzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/TDSoft63/TiendaDSoft63.App/TiendaDSoft63.App.Frontend/Pages/Contacto/List.cshtml]
