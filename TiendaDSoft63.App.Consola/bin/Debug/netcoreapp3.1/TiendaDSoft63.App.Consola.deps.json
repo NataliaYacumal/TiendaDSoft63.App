@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v3.1": {
       "TiendaDSoft63.App.Consola/1.0.0": {
         "dependencies": {
+          "Microsoft.EntityFrameworkCore": "5.0.0",
           "Microsoft.EntityFrameworkCore.Design": "5.0.0",
           "TiendaDSoft63.App.Dominio": "1.0.0",
           "TiendaDSoft63.App.Persistencia": "1.0.0"

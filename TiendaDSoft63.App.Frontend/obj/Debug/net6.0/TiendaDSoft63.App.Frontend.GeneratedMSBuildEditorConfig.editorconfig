@@ -19,6 +19,10 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5pc3RyYWRvcmVzXExpc3RhQWRtaW5pc3RyYWRvcmVzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/TDSoft63/TiendaDSoft63.App/TiendaDSoft63.App.Frontend/Pages/Clientes/ListaClientes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50ZXNcTGlzdGFDbGllbnRlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/TDSoft63/TiendaDSoft63.App/TiendaDSoft63.App.Frontend/Pages/Contacto/List.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdG9cTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -37,6 +41,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/TDSoft63/TiendaDSoft63.App/TiendaDSoft63.App.Frontend/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/TDSoft63/TiendaDSoft63.App/TiendaDSoft63.App.Frontend/Pages/Vendedores/ListaVendedores.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVuZGVkb3Jlc1xMaXN0YVZlbmRlZG9yZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/TDSoft63/TiendaDSoft63.App/TiendaDSoft63.App.Frontend/Pages/_ViewImports.cshtml]

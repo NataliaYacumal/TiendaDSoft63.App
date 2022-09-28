@@ -2,16 +2,39 @@
 @model TiendaDSoft63.App.Frontend.Pages.ListaAdministradoresModel
 @{
 }
-<h1>Lista de Administradores</h1>
+<h1>LISTA DE ADMINISTRADORES REGISTRADOS</h1>
 <table class = "table">
-    @foreach (var admin in Model.listaAdministradores)
+
+    <tr>
+        <td>Id</td>
+        <td>NOMBRE</td>
+        <td>EMAIL</td>
+        <td>DOCUMENTO</td>
+        <td>GENERO</td>
+        <td>TELEFONO</td>
+        <td>USUARIO</td>
+        <td>CONTRASEÑA</td>
+        <td>FECHA DE VINCULACIÓN</td>
+        <td>TIENDA</td>
+    </tr>
+    @foreach (var administrador in Model.listaAdministradores)
     {
-        <tr>
-            <td>@admin.Nombre</td>
-            <td>@admin.Email</td>
-            <td>@admin.Usuario</td>
-            <td>@admin.contrasenna</td>
-        </tr>
-        
+        <tr>            
+            <td>@administrador.Id</td>            
+            <td>@administrador.Nombre</td>
+            <td>@administrador.Email</td>
+            <td>@administrador.Documentos</td>
+            <td>@administrador.Generos</td>
+            <td>@administrador.Telefono</td>
+            <td>@administrador.Usuario</td>
+            <td>@administrador.contrasenna</td>
+            <td>@administrador.FechaVinculación</td>
+            <td>@administrador.Tiendas</td>  
+            <td>
+                <a class = "btn btn-primary table-btn" asp-page="./DetallesAdministradores" asp-route-administradorId="@administrador.Id">
+                Detalle Administrador
+                </a>
+            </td>         
+        </tr>        
     }
 </table>

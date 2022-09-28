@@ -65,3 +65,5 @@ C:\TDSoft63\TiendaDSoft63.App\TiendaDSoft63.App.Frontend\bin\Debug\net6.0\Tienda
 C:\TDSoft63\TiendaDSoft63.App\TiendaDSoft63.App.Frontend\bin\Debug\net6.0\TiendaDSoft63.App.Dominio.pdb
 C:\TDSoft63\TiendaDSoft63.App\TiendaDSoft63.App.Frontend\bin\Debug\net6.0\TiendaDSoft63.App.Persistencia.pdb
 C:\TDSoft63\TiendaDSoft63.App\TiendaDSoft63.App.Frontend\obj\Debug\net6.0\TiendaDSoft63.App.Frontend.csproj.CopyComplete
+C:\TDSoft63\TiendaDSoft63.App\TiendaDSoft63.App.Frontend\bin\Debug\net6.0\Humanizer.dll
+C:\TDSoft63\TiendaDSoft63.App\TiendaDSoft63.App.Frontend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll

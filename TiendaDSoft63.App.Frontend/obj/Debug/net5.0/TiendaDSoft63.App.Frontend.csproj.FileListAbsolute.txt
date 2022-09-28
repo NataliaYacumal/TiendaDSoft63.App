@@ -1,0 +1,8 @@
+C:\TDSoft63\TiendaDSoft63.App\TiendaDSoft63.App.Frontend\obj\Debug\net5.0\TiendaDSoft63.App.Frontend.csproj.AssemblyReference.cache
+C:\TDSoft63\TiendaDSoft63.App\TiendaDSoft63.App.Frontend\obj\Debug\net5.0\TiendaDSoft63.App.Frontend.GeneratedMSBuildEditorConfig.editorconfig
+C:\TDSoft63\TiendaDSoft63.App\TiendaDSoft63.App.Frontend\obj\Debug\net5.0\TiendaDSoft63.App.Frontend.AssemblyInfoInputs.cache
+C:\TDSoft63\TiendaDSoft63.App\TiendaDSoft63.App.Frontend\obj\Debug\net5.0\TiendaDSoft63.App.Frontend.AssemblyInfo.cs
+C:\TDSoft63\TiendaDSoft63.App\TiendaDSoft63.App.Frontend\obj\Debug\net5.0\TiendaDSoft63.App.Frontend.csproj.CoreCompileInputs.cache
+C:\TDSoft63\TiendaDSoft63.App\TiendaDSoft63.App.Frontend\obj\Debug\net5.0\TiendaDSoft63.App.Frontend.MvcApplicationPartsAssemblyInfo.cache
+C:\TDSoft63\TiendaDSoft63.App\TiendaDSoft63.App.Frontend\obj\Debug\net5.0\TiendaDSoft63.App.Frontend.RazorAssemblyInfo.cache
+C:\TDSoft63\TiendaDSoft63.App\TiendaDSoft63.App.Frontend\obj\Debug\net5.0\TiendaDSoft63.App.Frontend.RazorAssemblyInfo.cs

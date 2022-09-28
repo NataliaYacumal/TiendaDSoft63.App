@@ -1,0 +1,38 @@
+﻿@page
+@model TiendaDSoft63.App.Frontend.Pages.ListaVendedoresModel
+@{
+}
+<h1>LISTA DE VENDEDORES</h1>
+<table class = "table">
+
+    <tr>
+        <td>Id</td>
+        <td>NOMBRE</td>
+        <td>EMAIL</td>
+        <td>DOCUMENTO</td>
+        <td>GENERO</td>
+        <td>TELEFONO</td>
+        <td>FECHA DE VINCULACIÓN</td>
+        <td>TIENDA</td>
+        <td>PRODUCTOS</td>
+    </tr>
+    @foreach (var vendedor in Model.listaVendedores)
+    {
+        <tr>            
+            <td>@vendedor.Id</td>            
+            <td>@vendedor.Nombre</td>
+            <td>@vendedor.Email</td>
+            <td>@vendedor.Documentos</td>
+            <td>@vendedor.Generos</td>
+            <td>@vendedor.Telefono</td>            
+            <td>@vendedor.FechaVinculaciónVendedor</td>
+            <td>@vendedor.TiendaDSoft</td>  
+            <td>@vendedor.Productos</td> 
+            <td>
+                <a class = "btn btn-primary table-btn" asp-page="./DetallesVendedores" asp-route-vendedorId="@vendedor.Id">
+                Detalle Vendedor
+                </a>
+            </td>        
+        </tr>        
+    }
+</table>
