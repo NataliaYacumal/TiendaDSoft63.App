@@ -23,6 +23,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5pc3RyYWRvcmVzXExpc3RhQWRtaW5pc3RyYWRvcmVzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/TDSoft63/TiendaDSoft63.App/TiendaDSoft63.App.Frontend/Pages/AdministradorPagina.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5pc3RyYWRvclBhZ2luYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/TDSoft63/TiendaDSoft63.App/TiendaDSoft63.App.Frontend/Pages/Clientes/DetallesClientes.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50ZXNcRGV0YWxsZXNDbGllbnRlcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

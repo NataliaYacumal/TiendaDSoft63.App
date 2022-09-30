@@ -28,7 +28,8 @@
         <!-- ==================================================-->
 
                         <li class="nav-item">
-                            <a class="nav-link active" aria-current="page" href="#Home">Inicio</a>
+                            <a class="nav-link text-dark" asp-area="" asp-page="/Index">Inicio</a>
+                            <!--<a class="nav-link active" href="_Layout">Inicio</a>-->
                         </li>
 
                         <li class="nav-item">
@@ -44,13 +45,17 @@
                 
                 <form class="d-flex">
                 <input class="form-control me-2" type="email" placeholder="Correo Electronico" aria-label="email">
-                <button class="btn btn-primary btn-primary-outline-success" type="button">Suscribete</button>
-                <a class = "btn btn-primary table-btn" asp-page="/Vendedores/ListaVendedores">
-                Administrar
+                <button class="btn btn-primary btn-primary-outline-success" type="button">Suscribete</button>                
                 </a>
+                </form>                
+            </div>
+            
+            </div>
+            <form class="d-flex">
+                    <a class = "btn btn-primary table-btn" asp-page="/AdministradorPagina">
+                    Soy Administrador
+                    </a>
                 </form>
-            </div>
-            </div>
         </nav>
 
         <!-- ==================================================-->
