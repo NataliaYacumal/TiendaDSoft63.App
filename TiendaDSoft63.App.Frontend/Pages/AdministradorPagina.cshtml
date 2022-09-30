@@ -30,13 +30,13 @@
                             <!--<a class="nav-link active" href="_Layout">Inicio</a>-->
                         </li>
 
-                        <li class="nav-item">
+                        <!--<li class="nav-item">
                             <a class="nav-link" href="#productos">Productos</a>
                         </li>
 
                         <li class="nav-item">
                             <a class="nav-link" href="#seccion-contacto">Contacto</a>
-                        </li>
+                        </li>-->
 
                     </ul>
                 </div>
@@ -50,10 +50,22 @@
             
             </div>
             <form class="d-flex">
-                    <a class = "btn btn-primary table-btn" asp-page="/AdministradorPagina">
-                    Soy Administrador
+                    <a class = "btn btn-primary table-btn" asp-page="/Administradores/ListaAdministradores">
+                    Lista Aministradores
                     </a>
-                </form>
+                    <a class = "btn btn-primary table-btn" asp-page="/Clientes/ListaClientes">
+                    Lista Clientes
+                    </a>                    
+                    <a class = "btn btn-primary table-btn" asp-page="/Vendedores/ListaVendedores">
+                    Lista Vendedores
+                    </a>
+                    <a class = "btn btn-primary table-btn" asp-page="/AdministradorPagina">
+                    Lista Productos
+                    </a>
+                    <a class = "btn btn-primary table-btn" asp-page="/AdministradorPagina">
+                    Lista Tiendas
+                    </a>
+            </form>
         </nav>
 
         <!-- ==================================================-->

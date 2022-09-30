@@ -2,39 +2,62 @@
 @model TiendaDSoft63.App.Frontend.Pages.ListaAdministradoresModel
 @{
 }
-<h1>LISTA DE ADMINISTRADORES REGISTRADOS</h1>
-<table class = "table">
-
-    <tr>
-        <th>Id</th>
-        <td>NOMBRE</td>
-        <td>EMAIL</td>
-        <td>DOCUMENTO</td>
-        <td>GENERO</td>
-        <td>TELEFONO</td>
-        <td>USUARIO</td>
-        <td>CONTRASEÑA</td>
-        <td>FECHA DE VINCULACIÓN</td>
-        <td>TIENDA</td>
-    </tr>
-    @foreach (var administrador in Model.listaAdministradores)
-    {
-        <tr>            
-            <td>@administrador.Id</td>            
-            <td>@administrador.Nombre</td>
-            <td>@administrador.Email</td>
-            <td>@administrador.Documentos</td>
-            <td>@administrador.Generos</td>
-            <td>@administrador.Telefono</td>
-            <td>@administrador.Usuario</td>
-            <td>@administrador.contrasenna</td>
-            <td>@administrador.FechaVinculación</td>
-            <td>@administrador.Tiendas</td>  
-            <td>
-                <a class = "btn btn-primary table-btn" asp-page="./DetallesAdministradores" asp-route-administradorId="@administrador.Id">
-                Detalle Administrador
+<div class="text-center">
+    <!--<h1 class="display-4">Bienvenidos!</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>-->
+        <header class="container-fluid bg-primary d-flex justify-content-center">
+            <p class="text-light mb-0 p-2 fs-6">Contactanos 1-(305)-725-1000</p>
+        </header>
+        <nav class="navbar navbar-expand-lg navbar-light bg-light p-3" id="menu">
+            <div class="container-fluid">
+                <a class="navbar-brand" href="#">
+                    <span class="text-primary fs-5 fw-bold">TIENDA</span> DESOFT_63
                 </a>
-            </td>         
-        </tr>        
-    }
-</table>
+
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+
+        <!-- ==================================================-->
+        <!-- ===================ENCABEZADO=====================-->
+        <!-- ==================================================-->
+
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-page="/AdministradorPagina">Regresar</a>
+                        </li>
+                    </ul>
+                </div>
+                
+                <form class="d-flex">
+                <input class="form-control me-2" type="email" placeholder="Correo Electronico" aria-label="email">
+                <button class="btn btn-primary btn-primary-outline-success" type="button">Suscribete</button>                
+                </a>
+                </form>                
+            </div>
+            
+            </div>
+        </nav>             
+            <h1>LISTA DE ADMINISTRADORES REGISTRADOS</h1>
+                <table class = "table">
+
+                <tr>
+                    <th>Id</th>
+                    <th>NOMBRE</th>                    
+                </tr>
+                    @foreach (var administrador in Model.listaAdministradores)
+                    {
+                        <tr>            
+                            <td>@administrador.Id</td>            
+                            <td>@administrador.Nombre</td>  
+                            <td>
+                                <a class = "btn btn-primary table-btn" asp-page="./DetallesAdministradores" asp-route-administradorId="@administrador.Id">
+                                Detalle Administrador
+                                </a>
+                            </td>         
+                        </tr>        
+                    }
+                </table>
+</div>
