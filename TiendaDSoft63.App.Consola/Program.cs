@@ -22,8 +22,7 @@ namespace TiendaDSoft63.App.Consola
            //BuscarCliente(2);
            //EliminarAdministrador(1);
            //ListarAdministres();
-           AddVendedor();
-
+           //AddVendedor();
         }
         
         private static void AddAdministrador()

@@ -15,8 +15,16 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\TDSoft63\TiendaDSoft63.App\TiendaDSoft63.App.Frontend
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/TDSoft63/TiendaDSoft63.App/TiendaDSoft63.App.Frontend/Pages/Administradores/DetallesAdministradores.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5pc3RyYWRvcmVzXERldGFsbGVzQWRtaW5pc3RyYWRvcmVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/TDSoft63/TiendaDSoft63.App/TiendaDSoft63.App.Frontend/Pages/Administradores/ListaAdministradores.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5pc3RyYWRvcmVzXExpc3RhQWRtaW5pc3RyYWRvcmVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/TDSoft63/TiendaDSoft63.App/TiendaDSoft63.App.Frontend/Pages/Clientes/DetallesClientes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50ZXNcRGV0YWxsZXNDbGllbnRlcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/TDSoft63/TiendaDSoft63.App/TiendaDSoft63.App.Frontend/Pages/Clientes/ListaClientes.cshtml]
@@ -41,6 +49,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/TDSoft63/TiendaDSoft63.App/TiendaDSoft63.App.Frontend/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/TDSoft63/TiendaDSoft63.App/TiendaDSoft63.App.Frontend/Pages/Vendedores/DetallesVendedores.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVuZGVkb3Jlc1xEZXRhbGxlc1ZlbmRlZG9yZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/TDSoft63/TiendaDSoft63.App/TiendaDSoft63.App.Frontend/Pages/Vendedores/ListaVendedores.cshtml]
